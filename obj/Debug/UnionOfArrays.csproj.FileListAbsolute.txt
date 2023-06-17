@@ -1,0 +1,8 @@
+D:\CSharp\IUNIOR\DZ\UnionOfArrays\bin\Debug\UnionOfArrays.exe.config
+D:\CSharp\IUNIOR\DZ\UnionOfArrays\bin\Debug\UnionOfArrays.exe
+D:\CSharp\IUNIOR\DZ\UnionOfArrays\bin\Debug\UnionOfArrays.pdb
+D:\CSharp\IUNIOR\DZ\UnionOfArrays\obj\Debug\UnionOfArrays.csproj.AssemblyReference.cache
+D:\CSharp\IUNIOR\DZ\UnionOfArrays\obj\Debug\UnionOfArrays.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\IUNIOR\DZ\UnionOfArrays\obj\Debug\UnionOfArrays.csproj.CoreCompileInputs.cache
+D:\CSharp\IUNIOR\DZ\UnionOfArrays\obj\Debug\UnionOfArrays.exe
+D:\CSharp\IUNIOR\DZ\UnionOfArrays\obj\Debug\UnionOfArrays.pdb
